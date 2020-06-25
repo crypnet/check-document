@@ -1,0 +1,19 @@
+{
+  "name": "check-document",
+  "version": "1.0.0",
+  "description": "Validador de documentos ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypnet/check-document.git"
+  },
+  "keywords": [
+    "check",
+    "document"
+  ],
+  "author": "André Soares <“andreg.soares@hotmail.com”>",
+  "license": "MIT"
+}
